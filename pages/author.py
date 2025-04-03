@@ -14,4 +14,18 @@ class Author:
   
     def get_singleauthor(self):
       return self.wait.until(EC.presence_of_element_located(Locators.SINGLE_AUTHOR_LOCATOR))
+    
+    def get_top10tagsauthor(self):
+      return self.wait.until(EC.presence_of_element_located(Locators.SINGLE_AUTHOR_LOCATOR))
+    
+    
+    def get_nextbutton(self):
+      return self.wait.until(EC.presence_of_element_located(Locators.NEXT_BUTTON_LOCATOR))
+    
+    def get_about(self):
+      return self.wait.until(EC.presence_of_element_located(Locators.ABOUT_LOCATOR))
+    
+    
+    
+    
   

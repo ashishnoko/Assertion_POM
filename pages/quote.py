@@ -13,6 +13,13 @@ class Quote:
       return self.wait.until(EC.presence_of_all_elements_located(Locators.QUOTE_LOCATOR))
   
   
+         
+    def get_singlequotes(self):
+      return self.wait.until(EC.presence_of_all_elements_located(Locators.SINGLE_QUOTE_LOCATOR))
+  
+  
+  
+  
     
         
         
