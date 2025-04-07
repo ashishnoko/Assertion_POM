@@ -4,7 +4,7 @@ This repository demonstrates the use of **Behaviour Driven Development (BDD)** f
 BDD allows collaboration between developers, QA, and non-technical stakeholders by using natural language to describe the behaviour of the system.
 
  
- #ech Stack
+ #Tech Stack
 
 - Java / Python / JavaScript (choose your language)
 - Cucumber / Behave / Jasmine (based on language)
