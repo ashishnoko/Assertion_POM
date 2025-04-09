@@ -6,8 +6,8 @@ BDD allows collaboration between developers, QA, and non-technical stakeholders 
  
  #Tech Stack
 
-- Java / Python / JavaScript (choose your language)
-- Cucumber / Behave / Jasmine (based on language)
+- Java / Python / JavaScript 
+- Cucumber / Behave 
 - Gherkin syntax for feature files
 - Selenium WebDriver for UI automation
 
